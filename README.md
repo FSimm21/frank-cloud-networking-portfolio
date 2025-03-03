@@ -98,21 +98,5 @@ This repository is not just for certification prep. It reflects:
 
 ---
 
-## How to Use This Portfolio
-| Audience | Use Case |
-|---|---|
-| **Hiring Managers** | Evaluate hands-on skills and real project experience |
-| **Recruiters** | See verified examples of my work, beyond resume claims |
-| **Peers & Learners** | Use my labs and notes as learning resources |
-
----
-
 ## Contact
 Connect with me on [LinkedIn](https://www.linkedin.com/in/franklin-simmons-v/) and check out my full portfolio at [My GitHub Profile](https://github.com/your-username).
-
----
-
-## Next Steps
-1. Create your repo: `frank-cloud-networking-portfolio`
-2. Add this `README.md` as your first file.
-3. Start uploading your labs, automation work, and notes as you progress.
