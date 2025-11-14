@@ -16,20 +16,20 @@ This repository documents my journey from **Network Administrator** to the **Clo
 - Network Troubleshooting
 
 ### Cloud Networking
-- AWS VPC, Subnets, Route Tables
-- Transit Gateway, Direct Connect
-- Security Groups and NACLs
-- VPN Gateways (Site-to-Site VPN)
+- Azure Virtual Network (VNet), Subnets, User-Defined Routes (UDRs)
+- Azure Virtual WAN / VNet Peering / ExpressRoute
+- Network Security Groups (NSGs) and Azure Firewall / Built-in NACLs
+- VPN Gateways (Site-to-Site VPN w/ IPSec/IKE)
 
 ### Network Automation
 - Python (Netmiko, Paramiko)
 - Ansible (Automating Configurations)
-- Terraform (Infrastructure as Code for AWS Networking)
+- Terraform (Infrastructure as Code for Azure Networking)
 - Git and GitHub for version control
 
 ### Security
 - On-prem ACLs and Firewalls
-- Cloud Security (Security Groups, NACLs, VPN Encryption)
+- Cloud Security (Network Security Groups, Azure Firewall / Built-in ACLs, VPN IPSec Encryption)
 - Network Segmentation and Zero Trust
 
 ### Linux for Networking
@@ -67,7 +67,7 @@ This repository documents my journey from **Network Administrator** to the **Clo
 ├── Notes/                       # Study Notes
 │   ├── Subnetting.md
 │   ├── Routing.md
-│   ├── AWS-Networking.md
+│   ├── Azure-Networking.md
 │   └── Automation-Tools.md
 └── README.md                    # This file
 ```
@@ -76,8 +76,8 @@ This repository documents my journey from **Network Administrator** to the **Clo
 
 ## Key Projects
 ### 1. Hybrid Cloud Network Lab
-**Objective:** Connect an on-prem network (EVE-NG) to AWS using a **Site-to-Site VPN**.  
-**Skills Applied:** Subnetting, VPN Configuration, AWS VPC, Route Tables, Terraform, Linux CLI for testing.  
+**Objective:** Connect an on-prem network (EVE-NG) to Azure using a **Site-to-Site VPN**.  
+**Skills Applied:** Subnetting, VPN Configuration, Azure VNet, Route Tables, Terraform, Linux CLI for testing.  
 **Location:** `/Cloud-Networking-Labs/VPN-to-OnPrem`
 
 ---
