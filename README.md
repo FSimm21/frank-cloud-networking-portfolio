@@ -99,4 +99,4 @@ This repository is not just for certification prep. It reflects:
 ---
 
 ## Contact
-Connect with me on [LinkedIn](https://www.linkedin.com/in/franklin-simmons-v/) and check out my full portfolio at [My GitHub Profile](https://github.com/your-username).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/franklin-simmons-v/) and check out my full portfolio at [My GitHub Profile](https://github.com/FSimm21).
