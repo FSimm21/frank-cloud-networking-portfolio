@@ -2,7 +2,7 @@
 # Frank Cloud Networking Portfolio
 
 ## About This Repository
-This repository documents my journey from **Network Administrator** to **Cloud Network Engineer**, combining hands-on labs, network automation, cloud infrastructure design, and network security practices. It serves as both a **learning archive** and a **professional portfolio** to demonstrate my technical skills, automation projects, and real-world scenarios.
+This repository documents my journey from **Network Administrator** to the **Cloud**, combining hands-on labs, network automation, cloud infrastructure design, and network security practices. It serves as both a **learning archive** and a **professional portfolio** to demonstrate my technical skills, automation projects, and real-world scenarios.
 
 ---
 
